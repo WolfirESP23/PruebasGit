@@ -30,3 +30,6 @@ for numero in range(5):
   print(f"{numeros[7]} - {numeros[17]} - {numeros[27]} - {numeros[37]} - {numeros[47]}")  
   print(f"{numeros[8]} - {numeros[18]} - {numeros[28]} - {numeros[38]} - {numeros[48]}")  
   print(f"{numeros[9]} - {numeros[19]} - {numeros[29]} - {numeros[39]} - {numeros[49]}") 
+
+
+print("Tus números han sido elegidos")
